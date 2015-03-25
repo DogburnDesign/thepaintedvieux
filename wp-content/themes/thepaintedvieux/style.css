@@ -1,0 +1,20 @@
+/*
+ Theme Name:   The Painted Vieux
+ Theme URI:    http://dogburndesign.com
+ Description:  Multishop Child Theme is a modified theme by DJ Wilkerson
+ Author:       DJ Wilkerson
+ Author URI:   http://dogburndesign.com
+ Template:     virtue
+ Version:      1.0.0
+ Tags: left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments , translation-ready
+*/
+.headerclass {
+  background: url(http://localhost:8888/thepaintedvieux/wp-content/uploads/2015/03/chalkboard-bg.jpg);
+}
+a, #nav-main ul.sf-menu ul li a:hover, .product_price ins .amount, .price ins .amount, .color_primary, .primary-color, #logo a.brand, #nav-main ul.sf-menu a:hover, .woocommerce-message:before, .woocommerce-info:before, #nav-second ul.sf-menu a:hover, .footerclass a:hover, .posttags a:hover, .subhead a:hover, .nav-trigger-case:hover .kad-menu-name, .nav-trigger-case:hover .kad-navbtn, #kadbreadcrumbs a:hover, #wp-calendar a, .star-rating{
+    color:#008BFF;
+}
+.mobileclass.collapsed{
+    color:#fff;
+    background: 0;
+}
