@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-03-31 14:14:59
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.12
+WORDPRESS:	4.1.1
+PHP INFO:	5.6.3 | SAPI: apache2handler
+SERVER:		Apache/2.2.27 (Win32) DAV/2 mod_ssl/2.2.27 OpenSSL/1.0.1g mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/5.6.3 mod_perl/2.0.8 Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 19MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:19 | filtered:0 | create:19 
+FILTERED: [] 
+SQL CREATED: 20150327_thepaintedvieux_551aabb4062908090150331141412_database.sql 
+SQL FILE SIZE: 608.85KB 
+SQL FILE TIME: 2015-03-31 14:14:59 
+SQL RUNTIME: 0.24 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/MAMP/htdocs/thepaintedvieux 
+ARCHIVE FILE: 20150327_thepaintedvieux_551aabb4062908090150331141412_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	110.16MB 
+STATS:	Dirs 617 | Files 5,518 | Links 0 
+SQL ADDED: 20150327_thepaintedvieux_551aabb4062908090150331141412_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6135
+    [filename] => D:\MAMP\htdocs\thepaintedvieux\wp-snapshots\tmp\20150327_thepaintedvieux_551aabb4062908090150331141412_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 80.57MB 
+ARCHIVE RUNTIME: 39.01 sec. 
+MEMORY STACK: 20.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [D:/MAMP/htdocs/thepaintedvieux/wp-snapshots/tmp/20150327_thepaintedvieux_551aabb4062908090150331141412_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 608.85KB 
+Installer File: 316.89KB 
+Archive File: 80.57MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 40.93 sec.
+PEAK PHP MEMORY USED: 22.75MB
+DONE PROCESSING => 20150327_thepaintedvieux 2015-03-31 14:15:40
+ 
