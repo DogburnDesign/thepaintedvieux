@@ -18,3 +18,6 @@ a, #nav-main ul.sf-menu ul li a:hover, .product_price ins .amount, .price ins .a
     color:#fff;
     background: 0;
 }
+.product_item .product_price, .pricebox .product_price, .single_variation .price{
+    font-family: Sintony, sans-serif;
+}
